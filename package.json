@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0",
+    "node-cron": "^4.0.5",
+    "sqlite3": "^5.1.7"
+  }
+}
